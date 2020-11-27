@@ -1,0 +1,23 @@
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\bin\Debug\netstandard2.0\MVVMandData Binding.deps.json
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\bin\Debug\netstandard2.0\MVVMandData Binding.dll
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\bin\Debug\netstandard2.0\ref\MVVMandData Binding.dll
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\bin\Debug\netstandard2.0\MVVMandData Binding.pdb
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\View\HomePage.xaml.g.cs
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\View\LoginRegisterTabbedPage.xaml.g.cs
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\View\MasterHomePage.xaml.g.cs
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\View\RegisterPage.xaml.g.cs
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\MVVMandData Binding.AssemblyInfoInputs.cache
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\MVVMandData Binding.AssemblyInfo.cs
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\MVVMandData Binding.csproj.CoreCompileInputs.cache
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\MVVMandData Binding.dll
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\ref\MVVMandData Binding.dll
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\MVVMandData Binding.pdb
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\View\BookmarkPage.xaml.g.cs
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\View\DescoveryPage.xaml.g.cs
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\View\ProfilePage.xaml.g.cs
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\View\TopFoodePage.xaml.g.cs
+C:\Users\omarb\source\repos\MVVMandData Binding\MVVMandData Binding\MVVMandData Binding\obj\Debug\netstandard2.0\MVVMandData Binding.csprojAssemblyReference.cache
